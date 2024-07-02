@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abhijchavan
+- 👋 Hi, I’m @Abhichavan
 - 👀 I’m interested in c,c++,java
 -  👀 I’m a Full Stack web Devloper
 - 🌱 I’m currently learning computer engineering
