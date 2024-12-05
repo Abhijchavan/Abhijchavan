@@ -28,5 +28,4 @@ Check out my portfolio for more details:
 https://abhijchavan.github.io/portfoio1/
 
 🔗 Connect with Me
-GitHub: Abhi Chavan
 Linkdin:www.linkedin.com/in/abhijeet-bchavan
